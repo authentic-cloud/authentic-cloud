@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Increasing aspects of Autonomy in Drones**
+- 🔭 I’m currently working on ** Catadioptric vision system for the LabBot Mobile Robot**
 
 - 🌱 I’m currently learning **Python , Java , C++ ,C and many more**
 
