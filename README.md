@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ram424428@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZKFQPBPn6Kk8-JJndsvnwUgeroW_B0k8/view?usp=sharing](https://drive.google.com/file/d/1ZKFQPBPn6Kk8-JJndsvnwUgeroW_B0k8/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am a foodie as well as love to dance on a good song.**
 
 <h3 align="left">Connect with me:</h3>
